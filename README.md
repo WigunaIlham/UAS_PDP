@@ -1,18 +1,11 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Selamat datang di Game Tebak Angka yang super simpel tapi bikin ketagihan! Di sini, kita punya sesuatu yang lebih seru daripada menebak apa yang ada di lemari es kamu. Yap, kamu bakal menebak angka yang terpilih secara acak antara 1 sampai 100!
 
-## Folder Structure
+Jadi begini ceritanya: Kamu akan berhadapan dengan dua pemain, yaitu kamu sendiri sebagai manusia yang penuh kejutan dan si Komputer yang selalu tenang dan misterius. Tujuanmu simpel, deh: tebak angka yang terpilih sama si Komputer. Kita punya dua pilihan pemain—kamu yang manusia atau Komputer yang cerdas alias misterius.
 
-The workspace contains two folders by default, where:
+Nah, kamu bakal menebak angka dari pikiran misterius si Komputer, dan tentu saja, si Komputer juga bakal menebak angka dari kamu. Siapa yang bisa tebak lebih cepat, ya? Apakah kamu bisa mengalahkan algoritma dingin si Komputer atau malah sebaliknya?
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Ayo, buruan mainkan game ini dan lihat siapa yang paling tajam menebak angka! Jangan lupa ngecek tebakanmu setelah setiap putaran. Siapa tahu, kamu bisa dapetin gelar "Raja Tebak Angka"!
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Selamat bermain dan semoga kamu bisa menebak dengan akurat!
